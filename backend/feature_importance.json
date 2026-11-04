@@ -1,0 +1,62 @@
+[
+  {
+    "feature": "Area_SqFt",
+    "importance": 1.5074064709370534,
+    "raw_permutation_score_drop": 1.5074064709370534
+  },
+  {
+    "feature": "Property_Type_Villa",
+    "importance": 0.1161527179145163,
+    "raw_permutation_score_drop": 0.1161527179145163
+  },
+  {
+    "feature": "Rooms",
+    "importance": 0.08531322531564124,
+    "raw_permutation_score_drop": 0.08531322531564124
+  },
+  {
+    "feature": "Location_Prayagraj",
+    "importance": 0.07682202248672917,
+    "raw_permutation_score_drop": 0.07682202248672917
+  },
+  {
+    "feature": "Location_Indore",
+    "importance": 0.07407032278893366,
+    "raw_permutation_score_drop": 0.07407032278893366
+  },
+  {
+    "feature": "Property_Type_Duplex",
+    "importance": 0.05442851616604942,
+    "raw_permutation_score_drop": 0.05442851616604942
+  },
+  {
+    "feature": "Location_Kanpur",
+    "importance": 0.04748395269423885,
+    "raw_permutation_score_drop": 0.04748395269423885
+  },
+  {
+    "feature": "Property_Type_Independent House",
+    "importance": 0.04606501625209683,
+    "raw_permutation_score_drop": 0.04606501625209683
+  },
+  {
+    "feature": "Furnishing_Unfurnished",
+    "importance": 0.04476737077664401,
+    "raw_permutation_score_drop": 0.04476737077664401
+  },
+  {
+    "feature": "Location_Jaipur",
+    "importance": 0.042186777570891835,
+    "raw_permutation_score_drop": 0.042186777570891835
+  },
+  {
+    "feature": "Location_Lucknow",
+    "importance": 0.03011956400060854,
+    "raw_permutation_score_drop": 0.03011956400060854
+  },
+  {
+    "feature": "Build_Year",
+    "importance": 0.029276968444209586,
+    "raw_permutation_score_drop": 0.029276968444209586
+  }
+]

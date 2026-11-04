@@ -1,0 +1,40 @@
+{
+  "best_model": "Linear Regression",
+  "rows_used": 1124,
+  "feature_count": 20,
+  "categories": {
+    "Location": [
+      "Delhi",
+      "Gurugram",
+      "Indore",
+      "Jaipur",
+      "Kanpur",
+      "Lucknow",
+      "Noida",
+      "Prayagraj"
+    ],
+    "Street_Type": [
+      "Corner Plot",
+      "Gated Society",
+      "Highway Facing",
+      "Main Road",
+      "Residential Lane"
+    ],
+    "Furnishing": [
+      "Furnished",
+      "Semi-Furnished",
+      "Unfurnished"
+    ],
+    "Property_Type": [
+      "Apartment",
+      "Duplex",
+      "Independent House",
+      "Villa"
+    ]
+  },
+  "numeric_defaults": {
+    "Area_SqFt": 2219.012379,
+    "Rooms": 5,
+    "Build_Year": 2005
+  }
+}
