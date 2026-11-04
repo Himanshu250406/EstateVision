@@ -10,7 +10,7 @@ import {
   BarChart, Bar, ScatterChart, Scatter, ReferenceLine, ZAxis
 } from 'recharts'
 
-const API = import.meta.env.VITE_API_URL || 'http://127.0.0.1:5000'
+const API = import.meta.env.VITE_API_URL || 'http://192.168.1.11:5000'
 const fallbackCategories = {
   Location: ['Gurugram', 'Indore', 'Jaipur', 'Kanpur', 'Lucknow', 'Noida', 'Prayagraj'],
   Street_Type: ['Corner Plot', 'Gated Society', 'Highway Facing', 'Main Road', 'Residential Lane'],
